@@ -9,15 +9,25 @@ Bu proje ile C dilinde struct, pointer, dinamik bellek yönetimi, fonksiyonlar, 
 Program üzerinden:
 
 🏦 Yeni banka hesabı oluşturma
+
 📋 Aktif hesapları listeleme
+
 🔎 Hesap numarasına göre hesap arama
+
 💰 Para yatırma
+
 💸 Para çekme
+
 🔄 Hesaplar arası para transferi
+
 ❌ Hesap kapatma
+
 📊 Hesapları bakiyeye göre sıralama
+
 🔐 İşlem sırasında şifre doğrulama
+
 💾 Hesap bilgilerini dosyaya kaydetme
+
 📂 Daha önce kaydedilmiş hesap bilgilerini program açılışında yükleme
 
 işlemleri gerçekleştirilebilir.
