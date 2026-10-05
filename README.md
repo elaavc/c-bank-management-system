@@ -3,10 +3,11 @@
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
-[🇹🇷 Türkçe](#türkçe) | [🇬🇧 English](#english)
+[🇹🇷 Türkçe](#turkce) | [🇬🇧 English](#english)
 
 ---
 
+<a name="turkce"></a>
 ## 🇹🇷 Türkçe
 
 C programlama dili kullanılarak geliştirilmiş, temel bankacılık işlemlerini gerçekleştirebilen konsol tabanlı Banka Yönetim Sistemi projesidir.
