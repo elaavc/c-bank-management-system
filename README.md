@@ -155,3 +155,62 @@ Computer Engineering Student
 Mersin University
 
 ⭐ Projeyi faydalı bulduysanız inceleyebilir ve geliştirme önerilerinizi paylaşabilirsiniz.
+
+
+
+
+
+
+
+----------
+# 🏦 Bank Management System
+
+A console-based Bank Management System developed in the C programming language that performs basic banking operations.
+
+The main goal of this project is to practice and combine fundamental C programming concepts—such as **structs, pointers, dynamic memory management, functions, file handling, and arrays**—in a comprehensive application.
+
+---
+
+## 🚀 Project Features
+
+The program allows users to:
+* 🏦 **Create** a new bank account
+* 📋 **List** active accounts
+* 🔎 **Search** for an account by account number
+* 💰 **Deposit** money
+* 💸 **Withdraw** money
+* 🔄 **Transfer** money between accounts
+* ❌ **Close** an account
+* 📊 **Sort** accounts by balance
+* 🔐 **Verify** passwords during transactions
+* 💾 **Save** account information to a file
+* 📂 **Load** previously saved account information automatically on application startup
+
+---
+
+## 🛠️ C Concepts Used
+
+The following C programming concepts and functions are utilized in this project:
+* **Structs**
+* **Pointers & Pointer to Pointer (`**`)**
+* **Dynamic Memory Management:** `malloc()`, `realloc()`, `free()`
+* **Functions & Function Prototypes**
+* **Arrays & Character Arrays (Strings):** `strcmp()` for string comparison
+* **Control Flow:** `switch-case`, loops, conditional statements
+* **File Handling:** `FILE` structure, binary file operations (`fwrite()`, `fread()`, `fopen()`, `fclose()`)
+
+---
+
+## 📌 Account Structure
+
+Each account is stored using a `struct` containing the following attributes:
+
+```c
+struct hesap {
+    char hesapNumarasi[20];
+    char isim[15];
+    char soyad[15];
+    char sifre[7];
+    double bakiye;
+    int aktifMi;
+};
