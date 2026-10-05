@@ -3,7 +3,7 @@
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
-[🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)
+[🇹🇷 Türkçe](#türkçe) | [🇬🇧 English](#english)
 
 ---
 
